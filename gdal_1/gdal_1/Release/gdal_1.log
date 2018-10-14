@@ -1,0 +1,9 @@
+﻿  gdal_1.cpp
+    正在创建库 E:\visual studio 2015\Projects\gdal_1\Release\gdal_1.lib 和对象 E:\visual studio 2015\Projects\gdal_1\Release\gdal_1.exp
+  正在生成代码
+  1 of 444 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  gdal_1.vcxproj -> E:\visual studio 2015\Projects\gdal_1\Release\gdal_1.exe
+  gdal_1.vcxproj -> E:\visual studio 2015\Projects\gdal_1\Release\gdal_1.pdb (Full PDB)
